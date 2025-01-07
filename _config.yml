@@ -1,4 +1,4 @@
-slogan: "wubba lubba dub dub."
+slogan: "you cannot create, until you destroy"
 
 show_heart: true
 
@@ -21,16 +21,17 @@ menu:
     url: about
     intro: "About me."
     # icon: "fa fa-user"
-  - title: RSS
-    url: atom.xml
-    intro: "Subscribe me."
-    # icon: "fa fa-user"
 
 links:
-  - title: hexo-theme-bithack
-    url: https://github.com/Ares-X/hexo-theme-freemind.bithack
-    intro: ""
-    icon: false
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jonathan-skeete/
+    intro: "LinkedIn"
+    icon: "fa fa-linkedin"
+
+  - title: Discord
+    url: https://www.discord.com/users/585598048118374412/
+    intro: "LinkedIn"
+    icon: "fa fa-discord"
 
   # - title: "My LinkedIn"
   #   url: http://www.linkedin.com/in/xxx
